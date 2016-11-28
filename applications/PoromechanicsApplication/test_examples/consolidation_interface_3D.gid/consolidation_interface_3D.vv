@@ -1,0 +1,37 @@
+BeginZE /Users/ignasi/Downloads/tests/consolidation_interface_3D.gid/consolidation_interface_3D.vv
+   x -0.366025388240814209 1.36602544784545898
+   y 2.11645865440368652 -1.11645865440368652
+   z -1.36602544784545898 0.366025388240814209
+   e 0.866025388240814209
+   v -0.517756462097167969 -0.305393129587173462 -0.437580645084381104
+   r -0.668720006942749023
+   m 0.430516451597213745 -0.268999338150024414 0.86156541109085083 0 0.901476383209228516 0.0809028148651123047 -0.425199985504150391 0 0.0446754433214664459 0.959736466407775879 0.277326524257659912 0 0 0 0 1
+   c 0.5 0.5 0.5
+   pd 0
+   pno 0
+   pfo 0
+   pf 4
+   pv 0
+   NowUse 1
+   DrawingType 0
+   LightVector 90 90 150 0
+   OGLShadow(UseShadows) 0
+   OGLShadow(RenderMode) RenderNice
+   OGLShadow(ShadowBias) -0.002
+   OGLShadow(AmbientShadows) 1
+   OGLShadow(UseFBO) 1
+   OGLShadow(FBOSize) 2048
+   OGLShadow(DimmedLightFactor) 0.02
+   OGLStereo(UseStereo) 0
+   OGLStereo(RelativeEyeDistance) 1
+   OGLStereo(FlipEyes) 0
+   OGLStereo(StereoMode) AnaglyphColors
+   OGLStereo(EyeDistance) 0.075
+   OGLStereo(LeftEyeDistance) 1 0 0 1
+   OGLStereo(RightEyeDistance) 0 1 1 1
+EndZE /Users/ignasi/Downloads/tests/consolidation_interface_3D.gid/consolidation_interface_3D.vv
+
+BeginMirror
+   Mirror 0 Angle 0.0 AngleFake -15.0 SizeFactor 2.0 HeightOffset 0.25 Color #d9e5f24d Backlight Off EdgeStyle No Type Scene DrawMode Mirror
+EndMirror
+
